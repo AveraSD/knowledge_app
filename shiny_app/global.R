@@ -33,7 +33,7 @@ library(zoo)
 # database connection 
 conn <- DBI::dbConnect(
   RSQLite::SQLite(),
-  dbname = '~/Documents/knw_app/shiny_app/database/KNDB.sql'
+  dbname = 'database/KNDB.sql'
 )
 
 shiny::onStop(function() {
