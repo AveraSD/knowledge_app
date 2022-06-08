@@ -1,0 +1,318 @@
+x
+Nivolumab
+Carboplatin
+Paclitaxel
+Olaparib
+Gemcitabine
+Oxaliplatin
+Sorafenib
+Fluorouracil
+Bevacizumab
+Lerozole
+Abemaciclib
+Radiation
+Trametinib
+Cisplatin
+Etoposide
+Irinotecan
+Pembrolizumab
+FOLFOX
+Y-90
+Everolimus
+Pemetrexed
+Docetaxel
+FOLFIRI
+Ramucirumab
+Surgery
+Trastuzumab
+Pertuzumab
+Palbociclib
+Afatinib
+Capecitabine
+Panitumumab
+Cetuximab
+Lenvatinib
+Hysterectomy
+HDR Brachytherapy
+Salpingo-Oophorectomy bilateral (BSO)
+Niraparib OR Placebo
+Doxorubicin (Liposomal)
+TAKEDA Phase 1 Study
+Doxorubicin
+Cyclophosphamide
+Lumpectomy
+FOLFIRINOX
+Leucovorin
+Paclitaxel (Protein Bound)
+Atezolizumab
+Gamma Knife Radiosurgery
+Exemestane
+Cabozantinib
+Alecinib
+Whole Brain Radiation
+Mastectomy
+Anastrozole
+Fulvestrant
+Leuprolide
+Bicalutamide
+NA
+Enzalutamide
+Trifluridine AND Tipiracil
+Regorafenib
+Goseerelin
+Eribulin
+Octreotide
+Temozolomide
+Ipilimumab
+Topotecan
+Pazopanib
+Denosumab
+Cabazitaxel
+Tamoxifen
+Erlotinib
+Abiraterone
+Radium-223
+Ixabepilone
+Zoledronic acid
+Vinorelbine
+Vemurafenib
+Whipple
+Sunltinib
+Cyber Knife Radiation
+Temsirolimus
+Dabrafenib
+Epirubicin
+Niraparib
+Rucaparib
+CAPOX
+Ado-Trastuzumab Emtansine
+Lapatinib
+Neratinib
+Axitinib
+Avelumab
+Sterotactic Body Radiation SBRT
+Istodax
+Zolinza
+TC
+Ponatinib
+Colon Resection
+FOLFOX4
+Liver Resection
+SPRING Phase 1 Trial WIN
+Memantine
+Ribociclib
+Megestrol
+Leucovorin Calcium
+Everolimus AND Trametinib
+Crizotinib
+Exemestane AND Everolimus
+AC-T
+Methotrexate
+Carboplatin AND Paclitaxel
+(Exemestane AND Entinostat) OR (Exemestane AND Placebo)
+Ifosfamide
+Trabectedin
+Bortezomib
+Lenalidomide
+Stem Cell Transplant
+Carfilzomib
+Pomalidomide
+mFOLFOX6
+Ruxolitinib
+Pelareorep
+Brigatinib
+Ziv-Afilbercept
+Rituximab
+Cisplatin AND Etoposide
+Prednisone
+Tesaro Phase 1
+AC
+Compassionate use Veliparib AND Carboplatin
+Veliparib
+TCHP
+Streptozosin
+Altretamine
+Cobimeinib
+Ganitumab
+Metformin
+Trebananib OR Placebo
+Palbociclib OR Placebo
+Vismodegib
+TCH
+FEC
+Bendamustine
+R-CVP
+TH
+Chemotherapy
+Dasatinib
+AC followed by Taxol and Everolimus
+Sonidegib
+Research NSABP B56/M14
+Octreotide AND Everolimus
+Cyroablation
+AI And Everolimus
+AI
+Sulindac
+THP
+Azacitidine
+Dose-dense AC
+FAC
+Vincristine
+Dacarbazine
+Lomustine
+Entinostat
+Lucitanib FGFR inhibitor trial
+Imatinib
+Study Drug GDC0032
+MA-32
+XELOX
+Flutamide
+Decadron
+Thalidomide
+Rituximab-CHOP
+MitoXANTRONE
+PNT2258
+Ibrutinib
+Lartruvo
+Paclitaxel Phase III Study
+Phase III Study Avelumab
+Mesothelin-Targeted Trial
+Bleomycin
+Xofigo
+TAC
+Intra-Operative Radiotherapy
+Ibritumomab Tiuxetan
+Sargramostim
+Melphalan
+Laser Therapy
+Fludarabine
+Veliparib or Placebo Study A071102
+[]
+Bosutinib
+Foretinib 
+Nilotinib
+Vandetanib
+Tensirolimus
+Ceritinib
+Lorlatinib
+Enzastaurin
+[Trametinib]
+Dabrafenib;Trametinib
+Irinotecan;Vemurafenib;Cetuximab
+Selumetinib
+Panitumumab;Dabrafenib;BYL719
+Panitumumab;Dabrafenib;Trametinib
+PLX4720
+Vemurafenib;Cobimetinib
+[Olaparib]
+Platinum Agent
+Veliparib;Cisplatin
+LEE011
+Ilorasertib
+Everolimus;Letrozole
+Daunorubicin
+Flourouracil
+Tegafur
+[Rociletinib,HM61713]
+Afatinib;Cetuximab
+Afatinib;Nimotuzumab
+Cetuximab;Sirolimus
+Gefitinib
+Osimertinib
+Rindopepimut
+[Afatinib,Lapatinib,Neratinib]
+[Trastuzumab]
+Dacomitinib
+[GDC-0810]
+[Entrectinib]
+Fluvestrant
+[Lapatinib]
+[Nilotinib,Dasatinib]
+[EPZ-005687,EPZ-6438]
+Alectinib
+Arn-509
+Crenolanib
+Lestaurtinib
+Midostaurin
+Quizartinib
+Sorafenib;Azacytidine
+Cediranib
+Vorinostat
+Tipifarnib
+AG-120
+Venetoclax
+AG-221
+Amiloride
+Verapamil
+Sunitinib
+Trastuzumab;Lapatinib
+Dovitinib
+Everolimus;Bevacizumab
+Panitumumab;Trametinib
+Everolimus;Erlotinib
+Savolitinib
+[Crizotinib]
+Sirolimus
+Decitabine;BCL2 inhibitor
+Larotrectinib
+Liposomal Doxorubicin
+Everolimus;Pazopanib
+PLX3397
+Sirolimus;Erlotinib
+Sorafenib;Sirolimus
+Vinblastine
+Vinblastine;Nilotinib
+AR42
+Everolimus;Octreotide
+Tensirolimus;Chemotherapy
+Gemcitabine;MEK inhibitor
+[Ro4929097,Pf-03084014,Mk-0752]
+OMP-52M51
+Mk-0752
+OMP-59R5
+Sorafenib;MEK inhibitor
+Mytomycin C
+Rociletinib
+Foretinib
+Trametinib;Ponatinib
+Phenformin
+AZD6738
+Decitabine
+Mitomycin C
+Pramlintide
+Mercaptopurine
+Thioguanine
+[Sorafenib,Sunitinib,Bevacizumab,Axitinib]
+Dasatinib;Venetoclax
+MK2206
+[AZD5363,GSK2141795]
+Entrictinib
+[Bicalutamide,Enzalutamide,Orterone,4OHtestosterone]
+Venetoclax;Bortezomib
+Onalespib
+Lapatinib;Chemotherapy
+MK2206;Trastuzumab
+Trastuzumab;Everolimus;Chemotherapy
+Trastuzumab;HSP90 inhibitor
+[Tamoxifen,Letrozole,Anastrozole,Exemestane,Fulvestrant,LHRH analogues or antagonist]
+Lapatinib;Afatinib
+Lucitanib
+[Lucitanib]
+BYL719
+Erlotinib;Cetuximab
+Cabozantinib;Panitumumab
+Crizotinib;Vemurafenib
+Crizotinib;Trastuzumab
+Belinostat
+EPZ-5676
+MEK inhibitor;Docetaxel
+Everolimus;Trastuzumab;Chemotherapy
+Tretinoin
+Tretinoin;Arsenic Trioxide
+Volasertib
+Trametinib;Imatinib
+Irinotecan;CHK1/2 inhibitor
+U0126
+Nintedanib
+Anthracyclines
+Vemurafenib;Panitumumab

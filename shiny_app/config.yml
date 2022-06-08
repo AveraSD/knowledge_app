@@ -1,0 +1,5 @@
+default:
+  app_name: "knowledgeable"
+  db:
+    dbname: 'KNDB.sql'
+
