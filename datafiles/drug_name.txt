@@ -187,7 +187,6 @@ Melphalan
 Laser Therapy
 Fludarabine
 Veliparib or Placebo Study A071102
-[]
 Bosutinib
 Foretinib 
 Nilotinib
@@ -196,7 +195,7 @@ Tensirolimus
 Ceritinib
 Lorlatinib
 Enzastaurin
-[Trametinib]
+Trametinib
 Dabrafenib;Trametinib
 Irinotecan;Vemurafenib;Cetuximab
 Selumetinib
@@ -204,7 +203,7 @@ Panitumumab;Dabrafenib;BYL719
 Panitumumab;Dabrafenib;Trametinib
 PLX4720
 Vemurafenib;Cobimetinib
-[Olaparib]
+Olaparib
 Platinum Agent
 Veliparib;Cisplatin
 LEE011
@@ -213,22 +212,22 @@ Everolimus;Letrozole
 Daunorubicin
 Flourouracil
 Tegafur
-[Rociletinib,HM61713]
+Rociletinib,HM61713
 Afatinib;Cetuximab
 Afatinib;Nimotuzumab
 Cetuximab;Sirolimus
 Gefitinib
 Osimertinib
 Rindopepimut
-[Afatinib,Lapatinib,Neratinib]
-[Trastuzumab]
+Afatinib,Lapatinib,Neratinib
+Trastuzumab
 Dacomitinib
-[GDC-0810]
-[Entrectinib]
+GDC-0810
+Entrectinib
 Fluvestrant
-[Lapatinib]
-[Nilotinib,Dasatinib]
-[EPZ-005687,EPZ-6438]
+Lapatinib
+Nilotinib,Dasatinib
+EPZ-005687,EPZ-6438
 Alectinib
 Arn-509
 Crenolanib
@@ -251,7 +250,7 @@ Everolimus;Bevacizumab
 Panitumumab;Trametinib
 Everolimus;Erlotinib
 Savolitinib
-[Crizotinib]
+Crizotinib
 Sirolimus
 Decitabine;BCL2 inhibitor
 Larotrectinib
@@ -266,7 +265,7 @@ AR42
 Everolimus;Octreotide
 Tensirolimus;Chemotherapy
 Gemcitabine;MEK inhibitor
-[Ro4929097,Pf-03084014,Mk-0752]
+Ro4929097,Pf-03084014,Mk-0752
 OMP-52M51
 Mk-0752
 OMP-59R5
@@ -282,22 +281,22 @@ Mitomycin C
 Pramlintide
 Mercaptopurine
 Thioguanine
-[Sorafenib,Sunitinib,Bevacizumab,Axitinib]
+Sorafenib,Sunitinib,Bevacizumab,Axitinib
 Dasatinib;Venetoclax
 MK2206
-[AZD5363,GSK2141795]
+AZD5363,GSK2141795
 Entrictinib
-[Bicalutamide,Enzalutamide,Orterone,4OHtestosterone]
+Bicalutamide,Enzalutamide,Orterone,4OHtestosterone
 Venetoclax;Bortezomib
 Onalespib
 Lapatinib;Chemotherapy
 MK2206;Trastuzumab
 Trastuzumab;Everolimus;Chemotherapy
 Trastuzumab;HSP90 inhibitor
-[Tamoxifen,Letrozole,Anastrozole,Exemestane,Fulvestrant,LHRH analogues or antagonist]
+Tamoxifen,Letrozole,Anastrozole,Exemestane,Fulvestrant,LHRH analogues or antagonist
 Lapatinib;Afatinib
 Lucitanib
-[Lucitanib]
+Lucitanib
 BYL719
 Erlotinib;Cetuximab
 Cabozantinib;Panitumumab

@@ -1,0 +1,240 @@
+x
+BRAF inhibitor
+VEGFR inhibitor
+BCR-ABL inhibitor  3rd gen
+BRAF inhibitor;EGFR mAb inhibitor
+Pan-kinase inhibitor
+ALK inhibitor
+BCR-ABL inhibitor 2nd gen
+BRAF inhibitor;MEK inhibitor
+MET inhibitor
+PD1 Ab inhibitor
+BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor
+Pan-TK inhibitor
+AKT inhibitor
+allosteric AKT inhibitor
+EGFR TK inhibitor
+non-allosteric AKT inhibitor
+PI3K pathway inhibitor
+MTOR inhibitor
+novel ALK inhibitor
+Tankyrase inhibitor
+EGFR inhibitor 1st gen
+EGFR inhibitor 2nd gen
+ALK&ROS1 inhibitor
+EGFR inhibitor 3rd gen
+Tubulin inhibitor
+ATR inhibitors
+EZH2 inhibitor
+PARP inhibitor
+FGFR inhibitor
+ATR inhibitor
+DNA-PKc inhibitor
+Chemotherapy
+PARP inhibitor
+HDAC inhibitor
+PKCb inhibitor
+PD1 inhibitor
+BRAF inhibitor;CDK2/4 inhibitor
+BRAF inhibitor;EGFR mAb inhibitor +/- PI3K inhibitor
+BRAF inhibitor;HSP90 inhibitor
+BRAF inhibitor;PI3K pathway inhibitor
+PI3K pathway inhibitor;MEK inhibitor
+ERK inhibitor
+MEK inhibitor
+Pan-RAF inhibitor
+EGFR mAb inhibitor
+BRAF inhibitor
+BRAF inhibitor;MEK inhibitor
+TOPO1 inhibitor;BRAF inhibitor;EGFR mAb inhibitor
+MEK inhibitor
+EGFR mAb inhibitor;BRAF inhibitor;PI3K inhibitor
+EGFR mAb inhibitor;BRAF inhibitor;MEK inhibitor
+PARP inhibitor;Chemotherapy
+WEE1 inhibitor
+PARP inhibitor;Chemotherapy
+JAK inhibitor
+EGFR inhibitor
+EGFR mAb inhibitor
+AR inhibitor
+PARP inhibitors
+CDK4/6 inhibitor
+CDK2/4 inhibitor
+CDK4/6 inhibitor
+AURKA-VEGF inhibitor
+CDK2 inhibitor
+BCR-ABL inhibitor 1st gen&KIT inhibitor
+MTOR inhibitor;Hormonal therapy
+EGFR inhibitor 1st gen
+Fluoropyrimidine
+MET inhibitor
+Retinoic Acid
+HSP90 inhibitor
+MEK inhibitor (alone or in combination)
+novel EGFR mAb inhibitor
+ERBB2 inhibitor&EGFR inhibitor 2nd gen
+ERBB2 inhibitor&EGFR inhibitor 2nd gen;EGFR mAb inhibitor
+EGFR mAb inhibitor;MTOR inhibitor
+ERBB2 inhibitor
+EGFR inhibitor 3rd gen
+MTOR inhibitor
+Vaccine
+ERBB2 inhibitor
+ERBB2 mAb inhibitor
+ERBB2 mAb inhibitor
+ERBB2&EGFR inhibitor 2nd gen
+Pan ERBB inhibitor
+BET inhibitor
+ERBB3 mAb inhibitor
+MDM2 inhibitor
+novel ER degrader
+Pan-TK inhibitor
+Hormonal therapy
+BCR-ABL inhibitor 2nd gen
+Steroid
+CDK4/CDK6 inhibitor
+Proteasome inhibitor
+FLT3 inhibitor
+novel FLT3 inhibitor
+FLT3 inhibitor
+Pan-TK inhibitor;Chemotherapy
+Aromatase ihibitor
+HDAC inhibitor
+PKC inhibitor
+MEK inhibitor +/- MTOR inhibitor
+Farnesyltransferase inhibitor
+BCL2 inhibitor
+IDH1 inhibitor
+IDH1 inhibitor
+BCL2 inhibitor
+IDH2 inhibitor
+JAK inhibitor
+JAK inhibitor (alone or in combination)
+Na-Ca chanel blocker
+VEGFR inhibitor
+ERBB2 mAb inhibitor;ERBB2 inhibitor
+CDK4 inhibitor
+CDK4/6 inhibitor;MEK inhibitor
+EGFR mAb inhibitor;MEK inhibitor
+FAK inhibitor
+FAS inhibitor
+HSP90 inhibitor (in combination)
+JAK/TBK1/IKKε inhibitor
+MEK inhibitor;BCL-XL inhibitor
+MEK inhibitor;IGF1R inhibitor
+MEK inhibitor;PI3K pathway inhibitor
+FGFR inhibitor
+MTOR inhibitor;BH3 mimetics
+pan-RAF inhibitor
+MTOR inhibitor;VEGFR mAb inhibitor
+novel MEK inhibitor
+EGFR mAb inhibitor;MEK inhibitor
+MTOR inhibitor;EGFR inhibitor 1st gen
+BTK inhibitor
+MTOR kinase inhibitor
+Chemotherapy;BCL2 inhibitor
+AURK inhibitor
+BRD4 inhibitor
+KIT inhibitor;MTOR inhibitor
+MTOR inhibitor;HSP90 inhibitor
+Pan-RAF inhibitor;MEK inhibitor
+VEGFR mAb inhibitor
+Topomyosine kinase inhibitor
+Immunomodulator
+MTOR inhibitor;VEGFR inhibitor
+Pan-TK inhibitor;MTOR inhibitor
+Chemotherapy;BCR-ABL inhibitor 2nd gen
+PAK inhibitor
+PDK1 inhibitor
+MTOR inhibitor;Somatostatin analog
+MTOR inhibitor;Chemotherapy
+Chemotherapy;MEK inhibitor
+Gamma secretase inhibitor;CDK4 inhibitor
+Gamma secretase inhibitor;MTOR inhibitor
+Gamma secretase inhibitor
+NOTCH1 inhibitor
+NOTCH1 inhibitor
+Gamma secretase inhibitor
+NOTCH2 inhibitor
+DOT1L inhibitors;MLL1 inhibitors
+MEK inhibitor +/- PI3K pathway inhibitor
+Pan-TK inhibitor;MEK inhibitor
+EGFR inhibitor
+PI3K pathway inhibitor (alone or in combination)
+PIK3CA inhibitor
+MTORC1/2 inhibitor
+SMO inhibitor
+SHH inhibitor
+ATM inhibitor
+PI3K pathway inhibitor;AR antagonist
+PIK3CB inhibitor
+IGF1R inhibitor
+MDM2/MDMX inhibitor
+RET inhibitor
+Porcupine inhibitor
+CTLA4 inhibitor
+Spliceosome inhibitor
+MEK inhibitor;BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor
+SRC inhibitor;PI3K/MEK inhibitor
+Anti-diabetic
+Macrocyclic analog
+HDM2 inhibitor
+ATR inhibitor
+Anthracycline antitumor antibiotic
+Amylin analogue
+Purine analog
+Guanine analog
+novel TRK inhibitor
+SRC inhibitor
+TOPO1 inhibitor
+BCR-ABL inhibitor 2nd gen;BCL2 inhibitor
+Allosteric AKT inhibitor
+ATP competitive AKT inhibitor
+ALK inhibitor;IGF1R inhibitor
+ALK inhibitor;MEK inhibitor
+ALK inhibitor;SRC inhibitor
+ALK inhibitor
+AR inhibitor next gen
+AR inhibitor
+ESR1 inhibitor
+BCL2 inhibitor;Proteasome inhibitor
+HSP90 inhibitor
+EGFR TK inhibitor;MEK inhibitor
+PDL1 inhibitor
+PDL1 inhibitor
+PD1 Ab inhibitor
+PD1 Ab
+Alkylating agent
+CDK6 inhibitor
+PDGFR inhibitor
+EPHA3 inhibitor
+ERBB2 inhibitor;CDK4/6 inhibitor
+ERBB2 inhibitor;Chemotherapy
+Allosteric AKT inhibitor;ERBB2 mAb inhibitor
+ERBB2 mAb inhibitor;MTOR inhibitor;Chemotherapy
+ERBB2 mAb inhibitor;HSP90 inhibitor
+Hormonal therapy
+ERBB2 inhibitor;ERBB2 inhibitor&EGFR inhibitor 2nd gen
+LHRH analogues or antagonist
+PIK3CA inhibitor
+EGFR inhibitor 1st gen;EGFR mAb inhibitor
+Pan-kinase inhibitor;EGFR mAb inhibitor
+ALK inhibitor;BRAF inhibitor
+ALK inhibitor;ERBB2 mAb inhibitor
+DOTL1 inhibitor
+CDK7 inhibitor
+FACT inhibitor
+PIM inhibitor
+MEK inhibitor;Chemotherapy
+3rd generation EGFR inhibitor
+Taxane
+Pan-TKR inhibitor
+MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy
+Retinoid
+Retinoid;Chemotherapy
+PLK1 inhibitor
+MEK inhibitor;BCR-ABL inhibitor 1st gen&KIT inhibitor
+TOPO1 inhibitor;CHK1/2 inhibitor
+SLC44A4 inhibitor
+SYK inhibitor
+BRAF inhibitor;EGFR mAb inhibitor
