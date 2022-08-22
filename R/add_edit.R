@@ -311,7 +311,7 @@ observeEvent(validate_edit(), {
 
     if (dat$EntryID == 0) {
       # creating a entry number
-      dat$EntryID <- cnter +1
+      dat$EntryID <- cnter + 1
       
       dbAppendTable(conn, "finalTb", dat,row.names = NULL)
     } else {

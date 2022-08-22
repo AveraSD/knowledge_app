@@ -110,7 +110,8 @@ cars_table_module <- function(input, output, session) {
   # get the counter for the new entry row
   count_id <- eventReactive(knwdf(),{
     cntin = knwdf()
-    counter = as.integer(nrow(cntin))
+    cntin = tail(cntin, n =1)
+    counter = as.integer(cntin$EntryID)
     counter
   })
 
