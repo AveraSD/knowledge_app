@@ -1,0 +1,13 @@
+default:
+  db:
+    dbname: 'KNDB.sql'
+  data_path: "database/KNDB.sql"
+  file_path: "datafiles/"
+
+production:
+  app_name: "knowledgeable"
+  db:
+    dbname: 'KNDB.sql'
+  data_path: "/data/database/KNDB.sql"
+  file_path: "/data/datafiles/"
+  

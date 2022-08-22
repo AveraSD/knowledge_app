@@ -1,0 +1,311 @@
+x
+BRAF inhibitors
+Axitinib (VEGFR inhibitor)
+Bosutinib (BCR-ABL inhibitor  3rd gen)
+BRAF inhibitor + EGFR mAb inhibitors
+Cabozantinib (Pan-kinase inhibitor)
+Crizotinib (ALK inhibitor)
+Dasatinib (BCR-ABL inhibitor 2nd gen)
+BRAF inhibitor + MEK inhibitors
+Foretinib  (MET inhibitor)
+PD1 Ab inhibitors
+Nilotinib (BCR-ABL inhibitor 2nd gen)
+Ponatinib (BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor)
+Vandetanib (Pan-TK inhibitor)
+AKT inhibitors
+allosteric AKT inhibitors
+EGFR TK inhibitors
+non-allosteric AKT inhibitors
+PI3K pathway inhibitors
+Everolimus (MTOR inhibitor)
+Tensirolimus (MTOR inhibitor)
+novel ALK inhibitors
+Brigatinib (Pan-TK inhibitor)
+Ceritinib (ALK inhibitor)
+Tankyrase inhibitors
+EGFR inhibitor 1st gens
+EGFR inhibitor 2nd gens
+Lorlatinib (ALK&ROS1 inhibitor)
+EGFR inhibitor 3rd gens
+Tubulin inhibitors
+Sorafenib (Pan-TK inhibitor)
+ATR inhibitors
+EZH2 inhibitors
+PARP inhibitors
+FGFR inhibitors
+DNA-PKc inhibitors
+Cisplatin (Chemotherapy)
+Olaparib (PARP inhibitor)
+Temozolomide (Chemotherapy)
+HDAC inhibitors
+Enzastaurin (PKCb inhibitor)
+PD1 inhibitors
+BRAF inhibitor + CDK2/4 inhibitors
+BRAF inhibitor + EGFR mAb inhibitor +/- PI3K inhibitors
+BRAF inhibitor + HSP90 inhibitors
+BRAF inhibitor + PI3K pathway inhibitors
+PI3K pathway inhibitor + MEK inhibitors
+ERK inhibitors
+MEK inhibitors
+Pan-RAF inhibitors
+MEK inhibitors (Trametinib,etc)
+Cetuximab (EGFR mAb inhibitor)
+Dabrafenib (BRAF inhibitor)
+Dabrafenib + Trametinib (BRAF inhibitor + MEK inhibitor)
+Irinotecan + Vemurafenib + Cetuximab (TOPO1 inhibitor + BRAF inhibitor + EGFR mAb inhibitor)
+Selumetinib (MEK inhibitor)
+Panitumumab + Dabrafenib + BYL719 (EGFR mAb inhibitor + BRAF inhibitor + PI3K inhibitor)
+Panitumumab + Dabrafenib + Trametinib (EGFR mAb inhibitor + BRAF inhibitor + MEK inhibitor)
+PLX4720 (BRAF inhibitor)
+Trametinib (MEK inhibitor)
+Vemurafenib (BRAF inhibitor)
+Vemurafenib + Cobimetinib (BRAF inhibitor + MEK inhibitor)
+PARP inhibitor + Chemotherapys
+WEE1 inhibitors
+PARP inhibitors (Olaparib,etc)
+Platinum Agent (Chemotherapy)
+Rucaparib (PARP inhibitor)
+Veliparib + Cisplatin (PARP inhibitor + Chemotherapy)
+JAK inhibitors
+EGFR inhibitors
+EGFR mAb inhibitors
+Bicalutamide (AR inhibitor)
+LEE011 (CDK4/6 inhibitor)
+CDK2/4 inhibitors
+CDK4/6 inhibitors
+Ilorasertib (AURKA-VEGF inhibitor)
+CDK2 inhibitors
+Imatinib (BCR-ABL inhibitor 1st gen&KIT inhibitor)
+Everolimus + Letrozole (MTOR inhibitor + Hormonal therapy)
+Erlotinib (EGFR inhibitor 1st gen)
+Daunorubicin (Chemotherapy)
+Capecitabine (Fluoropyrimidine)
+Flourouracil (Fluoropyrimidine)
+Tegafur (Fluoropyrimidine)
+MET inhibitors
+Retinoic Acids
+HSP90 inhibitors
+MEK inhibitor (alone or in combination)s
+novel EGFR mAb inhibitors
+EGFR inhibitor 3rd gens (Rociletinib,HM61713,etc)
+Afatinib (ERBB2 inhibitor&EGFR inhibitor 2nd gen)
+Afatinib + Cetuximab (ERBB2 inhibitor&EGFR inhibitor 2nd gen + EGFR mAb inhibitor)
+Afatinib + Nimotuzumab (ERBB2 inhibitor&EGFR inhibitor 2nd gen + EGFR mAb inhibitor)
+Cetuximab + Sirolimus (EGFR mAb inhibitor + MTOR inhibitor)
+Gefitinib (EGFR inhibitor 1st gen)
+Lapatinib (ERBB2 inhibitor)
+Osimertinib (EGFR inhibitor 3rd gen)
+MTOR inhibitors
+Panitumumab (EGFR mAb inhibitor)
+Rindopepimut (Vaccine)
+ERBB2 inhibitors (Afatinib,Lapatinib,Neratinib,etc)
+ERBB2 mAb inhibitors (Trastuzumab,etc)
+Ado-Trastuzumab Emtansine (ERBB2 mAb inhibitor)
+Afatinib (ERBB2&EGFR inhibitor 2nd gen)
+Dacomitinib (Pan ERBB inhibitor)
+Neratinib (ERBB2 inhibitor)
+BET inhibitors
+Trastuzumab (ERBB2 mAb inhibitor)
+ERBB3 mAb inhibitors
+Pertuzumab (ERBB2 mAb inhibitor)
+MDM2 inhibitors
+novel ER degraders (GDC-0810,etc)
+Pan-TK inhibitors (Entrectinib,etc)
+Fluvestrant (Hormonal therapy)
+ERBB2 inhibitors (Lapatinib,etc)
+BCR-ABL inhibitor 2nd gens (Nilotinib,Dasatinib,etc)
+EZH2 inhibitors (EPZ-005687,EPZ-6438,etc)
+Steroids
+Abemaciclib (CDK4/CDK6 inhibitor)
+Abiraterone (AR inhibitor)
+Alectinib (ALK inhibitor)
+Arn-509 (AR inhibitor)
+Bortezomib (Proteasome inhibitor)
+FLT3 inhibitors
+novel FLT3 inhibitors
+Crenolanib (FLT3 inhibitor)
+Lestaurtinib (Pan-TK inhibitor)
+Midostaurin (Pan-TK inhibitor)
+Quizartinib (Pan-TK inhibitor)
+Sorafenib + Azacytidine (Pan-TK inhibitor + Chemotherapy)
+Cediranib (ALK inhibitor)
+Aromatase ihibitors
+Vorinostat (HDAC inhibitor)
+PKC inhibitors
+MEK inhibitor +/- MTOR inhibitors
+Tipifarnib (Farnesyltransferase inhibitor)
+BCL2 inhibitors
+IDH1 inhibitors
+AG-120 (IDH1 inhibitor)
+Venetoclax (BCL2 inhibitor)
+AG-221 (IDH2 inhibitor)
+Ruxolitinib (JAK inhibitor)
+JAK inhibitor (alone or in combination)s
+Amiloride (Na-Ca chanel blocker)
+Verapamil (Na-Ca chanel blocker)
+VEGFR inhibitors
+Regorafenib (Pan-kinase inhibitor)
+Sunitinib (Pan-TK inhibitor)
+Trastuzumab + Lapatinib (ERBB2 mAb inhibitor + ERBB2 inhibitor)
+CDK4 inhibitors
+CDK4/6 inhibitor + MEK inhibitors
+EGFR mAb inhibitor + MEK inhibitors
+FAK inhibitors
+FAS inhibitors
+HSP90 inhibitor (in combination)s
+JAK/TBK1/IKKε inhibitors
+MEK inhibitor + BCL-XL inhibitors
+MEK inhibitor + IGF1R inhibitors
+MEK inhibitor + PI3K pathway inhibitors
+Dovitinib (FGFR inhibitor)
+MTOR inhibitor + BH3 mimeticss
+pan-RAF inhibitors
+Enzalutamide (AR inhibitor)
+Abemaciclib (CDK4/6 inhibitor)
+Everolimus + Bevacizumab (MTOR inhibitor + VEGFR mAb inhibitor)
+novel MEK inhibitors
+Panitumumab + Trametinib (EGFR mAb inhibitor + MEK inhibitor)
+Everolimus + Erlotinib (MTOR inhibitor + EGFR inhibitor 1st gen)
+Exemestane (Hormonal therapy)
+Flutamide (AR inhibitor)
+Fulvestrant (Hormonal therapy)
+Savolitinib (MET inhibitor)
+Gemcitabine (Chemotherapy)
+Ibrutinib (BTK inhibitor)
+MET inhibitors (Crizotinib,etc)
+MTOR kinase inhibitors
+Sirolimus (MTOR inhibitor)
+Decitabine + BCL2 inhibitor (Chemotherapy + BCL2 inhibitor)
+AURK inhibitors
+BRD4 inhibitors
+KIT inhibitor + MTOR inhibitors
+MTOR inhibitor + HSP90 inhibitors
+Pan-RAF inhibitor + MEK inhibitors
+Bevacizumab (VEGFR mAb inhibitor)
+Larotrectinib (Topomyosine kinase inhibitor)
+Lenalidomide (Immunomodulator)
+Liposomal Doxorubicin (Chemotherapy)
+Everolimus + Pazopanib (MTOR inhibitor + VEGFR inhibitor)
+PLX3397 (Pan-TK inhibitor)
+Sirolimus + Erlotinib (MTOR inhibitor + EGFR inhibitor 1st gen)
+Sorafenib + Sirolimus (Pan-TK inhibitor + MTOR inhibitor)
+Tamoxifen (Hormonal therapy)
+Vinblastine (Chemotherapy)
+Vinblastine + Nilotinib (Chemotherapy + BCR-ABL inhibitor 2nd gen)
+PAK inhibitors
+PDK1 inhibitors
+AR42 (HDAC inhibitor)
+Everolimus + Octreotide (MTOR inhibitor + Somatostatin analog)
+Tensirolimus + Chemotherapy (MTOR inhibitor + Chemotherapy)
+Gemcitabine + MEK inhibitor (Chemotherapy + MEK inhibitor)
+Gamma secretase inhibitor + CDK4 inhibitors
+Gamma secretase inhibitor + MTOR inhibitors
+Gamma secretase inhibitors
+NOTCH1 inhibitors
+Gamma secretase inhibitors (Ro4929097,Pf-03084014,Mk-0752,etc)
+OMP-52M51 (NOTCH1 inhibitor)
+Mk-0752 (Gamma secretase inhibitor)
+OMP-59R5 (NOTCH2 inhibitor)
+DOT1L inhibitors + MLL1 inhibitors
+MEK inhibitor +/- PI3K pathway inhibitors
+Pomalidomide (Immunomodulator)
+Sorafenib + MEK inhibitor (Pan-TK inhibitor + MEK inhibitor)
+Mytomycin C (Chemotherapy)
+Rociletinib (EGFR inhibitor)
+PI3K pathway inhibitor (alone or in combination)s
+PIK3CA inhibitors
+MTORC1/2 inhibitors
+SMO inhibitors
+Foretinib (MET inhibitor)
+Vismodegib (SHH inhibitor)
+ATM inhibitors
+PI3K pathway inhibitor + AR antagonists
+PIK3CB inhibitors
+IGF1R inhibitors
+MDM2/MDMX inhibitors
+RET inhibitors
+Porcupine inhibitors
+CTLA4 inhibitors
+Spliceosome inhibitors
+Trametinib + Ponatinib (MEK inhibitor + BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor)
+SRC inhibitor + PI3K/MEK inhibitors
+Phenformin (Anti-diabetic)
+Eribulin (Macrocyclic analog)
+HDM2 inhibitors
+AZD6738 (ATR inhibitor)
+Decitabine (Chemotherapy)
+Doxorubicin (Anthracycline antitumor antibiotic)
+Mitomycin C (Chemotherapy)
+Pramlintide (Amylin analogue)
+Mercaptopurine (Purine analog)
+Thioguanine (Guanine analog)
+novel TRK inhibitors
+SRC inhibitors
+Irinotecan (TOPO1 inhibitor)
+VEGFR inhibitors (Sorafenib,Sunitinib,Bevacizumab,Axitinib,etc)
+Dasatinib + Venetoclax (BCR-ABL inhibitor 2nd gen + BCL2 inhibitor)
+MK2206 (Allosteric AKT inhibitor)
+ATP competitive AKT inhibitors (AZD5363,GSK2141795,etc)
+ALK inhibitor + IGF1R inhibitors
+ALK inhibitor + MEK inhibitors
+ALK inhibitor + SRC inhibitors
+ALK inhibitors
+Entrictinib (Pan-TK inhibitor)
+AR inhibitor next gens
+AR inhibitors (Bicalutamide,Enzalutamide,Orterone,4OHtestosterone,etc)
+ESR1 inhibitors
+Venetoclax + Bortezomib (BCL2 inhibitor + Proteasome inhibitor)
+Onalespib (HSP90 inhibitor)
+EGFR TK inhibitor + MEK inhibitors
+Palbociclib (CDK4/6 inhibitor)
+PDL1 inhibitors
+Atezolizumab (PDL1 inhibitor)
+Nivolumab (PD1 Ab inhibitor)
+Pembrolizumab (PD1 Ab)
+Bendamustine (Alkylating agent)
+CDK6 inhibitors
+PDGFR inhibitors
+EPHA3 inhibitors
+ERBB2 inhibitor + CDK4/6 inhibitors
+Ado-Trastuzumab Emtansine (EGFR mAb inhibitor)
+Lapatinib + Chemotherapy (ERBB2 inhibitor + Chemotherapy)
+MK2206 + Trastuzumab (Allosteric AKT inhibitor + ERBB2 mAb inhibitor)
+Trastuzumab + Everolimus + Chemotherapy (ERBB2 mAb inhibitor + MTOR inhibitor + Chemotherapy)
+Trastuzumab + HSP90 inhibitor (ERBB2 mAb inhibitor + HSP90 inhibitor)
+Hormonal therapys (Tamoxifen,Letrozole,Anastrozole,Exemestane,Fulvestrant,LHRH analogues or antagonist,etc)
+Lapatinib + Afatinib (ERBB2 inhibitor + ERBB2 inhibitor&EGFR inhibitor 2nd gen)
+LHRH analogues or antagonists
+Lucitanib (FGFR inhibitor)
+FGFR inhibitors (Lucitanib,etc)
+FGFR inhibitors (,etc)
+BYL719 (PIK3CA inhibitor)
+Erlotinib + Cetuximab (EGFR inhibitor 1st gen + EGFR mAb inhibitor)
+Cabozantinib + Panitumumab (Pan-kinase inhibitor + EGFR mAb inhibitor)
+Crizotinib + Vemurafenib (ALK inhibitor + BRAF inhibitor)
+Crizotinib + Trastuzumab (ALK inhibitor + ERBB2 mAb inhibitor)
+Belinostat (HDAC inhibitor)
+EPZ-5676 (DOTL1 inhibitor)
+CDK7 inhibitors
+FACT inhibitors
+PIM inhibitors
+MEK inhibitor + Docetaxel (MEK inhibitor + Chemotherapy)
+Osimertinib (3rd generation EGFR inhibitor)
+EGFR inhibitor 3rd gens (Osimertinib,etc)
+Paclitaxel (Taxane)
+Pan-TK inhibitors
+Pan-TKR inhibitors
+Rociletinib (3rd generation EGFR inhibitor)
+EGFR inhibitor 3rd gens (Rociletinib,etc)
+Everolimus + Trastuzumab + Chemotherapy (MTOR inhibitor + ERBB2 mAb inhibitor + Chemotherapy)
+Tretinoin (Retinoid)
+Tretinoin + Arsenic Trioxide (Retinoid + Chemotherapy)
+Volasertib (PLK1 inhibitor)
+Trametinib + Imatinib (MEK inhibitor + BCR-ABL inhibitor 1st gen&KIT inhibitor)
+Irinotecan + CHK1/2 inhibitor (TOPO1 inhibitor + CHK1/2 inhibitor)
+U0126 (MEK inhibitor)
+Nintedanib (Pan-TK inhibitor)
+SLC44A4 inhibitors
+SYK inhibitors
+Anthracyclines (Chemotherapy)
+Vemurafenib + Panitumumab (BRAF inhibitor + EGFR mAb inhibitor)
+Pazopanib (VEGFR inhibitor)
